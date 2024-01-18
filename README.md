@@ -7,14 +7,14 @@ Login: Email:andreiggy9@yahoo.com Pass:Password123
 
 ## Features
 
--authentication
--bookings
--cabins
--check in
--check out
--dashboard
--settings(breakfast price,min and max nights/booking etc.)
--dark mode
+* authentication
+* bookings
+* cabins
+* check in
+* check out
+* dashboard
+* settings(breakfast price,min and max nights/booking etc.)
+* dark mode
 
 ## Install and Run the Project
 
